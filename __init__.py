@@ -28,6 +28,6 @@ def root_bluestacks(make_read_only=False):
         f.write(datanew)
     if make_read_only:
         set_read_only(bstconfigpath)
-
+    return bstconfigpath
 
 
