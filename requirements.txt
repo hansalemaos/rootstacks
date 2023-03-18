@@ -1,2 +1,1 @@
 reggisearch
-reggisearch.egg
